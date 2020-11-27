@@ -1,1 +1,1 @@
-#See readme.pdf for details.
+See readme.pdf for details.
